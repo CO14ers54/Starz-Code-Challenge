@@ -1,0 +1,13 @@
+﻿Oranges,.10
+Kiwi,.15
+Jackfruit,.20
+Jujube,.30
+Persimmon,.40
+Cloudberry,.50
+Banana,.60
+Ugli Fruit,.70
+Pineapple,.80
+Cherimoya,.90
+Yuzu,1
+Avacado,0
+Blueberry,.30

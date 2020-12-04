@@ -1,0 +1,25 @@
+﻿Oranges,10
+Apples,5
+Kiwi,4
+Dragonfruit,5
+Jackfruit,8
+Huckleberry,3
+Jujube,2
+Papaya,5
+Persimmon,7
+Mango,3
+Cloudberry,8
+Quince,5
+Banana,3
+Cranberry,3
+Ugli Fruit,4
+Gooseberry,4
+Pineapple,6
+Rambutan,3
+Cherimoya,7
+Soursop,4
+Yuzu,2
+Strawberry,4
+Avacado,4
+Pomelo,4
+Blueberry,3
